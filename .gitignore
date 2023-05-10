@@ -1,0 +1,6 @@
+/target
+.iml
+/duckdb_db/
+/.idea/
+/run.log
+/perf_test_history.md

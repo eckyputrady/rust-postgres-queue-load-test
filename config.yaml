@@ -1,0 +1,8 @@
+num_topic: 5
+message_size_bytes: 1000
+database_url: postgres://ecky:ecky@localhost:5432/ecky
+database_max_connections: 1000
+test_duration_ms: 18000
+consumer_sleep_time_ms: 1000
+num_consumer_per_topic: 17
+num_producer_per_topic: 3
