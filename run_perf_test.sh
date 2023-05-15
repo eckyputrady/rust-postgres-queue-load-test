@@ -13,6 +13,7 @@ echo '```'
 echo '### Result'
 echo '```'
 duckdb < analysis.duckdb.sql
+cat stats.tsv
 echo '```'
 
 

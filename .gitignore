@@ -2,5 +2,7 @@
 .iml
 /duckdb_db/
 /.idea/
-/run.log
+/logs/run.20230513_182000.log
 /perf_test_history.md
+/stats.tsv
+/logs/
